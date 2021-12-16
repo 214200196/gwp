@@ -1,4 +1,4 @@
-package gwp
+package main
 
 import (
 	"fmt"

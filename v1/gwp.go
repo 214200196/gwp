@@ -1,4 +1,4 @@
-package go-worker-pool
+package v1
 
 import (
 	"errors"
